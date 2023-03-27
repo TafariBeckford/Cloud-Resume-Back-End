@@ -54,5 +54,4 @@ jobs:
 
     - name: Test API with Cypress
       uses: cypress-io/github-action@v5
-      with:
-        spec: cypress/API/api.cy.js
+      
